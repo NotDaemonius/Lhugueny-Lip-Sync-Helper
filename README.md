@@ -2,7 +2,7 @@
 A command for Adobe Animate, programed in JSFL, made with the intent to automate Lhugueny-styled mouth transitions
 
 ## Setup
-To run the command in Adobe Animate, drag the[ LhuguenyLipSyncHelper](https://github.com/NotDaemonius/Lhugueny-Lip-Sync-Helper/blob/main/LhuguenyLipSyncHelper " LhuguenyLipSyncHelper") file into the following path, depending on your operating system:
+To run the command in Adobe Animate, drag the[ LhuguenyLipSyncHelper](https://github.com/NotDaemonius/Lhugueny-Lip-Sync-Helper/releases/tag/Release " LhuguenyLipSyncHelper") file into the following path, depending on your operating system:
 - Windows: `C:\Users\(YOUR USER)\AppData\Local\Adobe\Animate-(YOUR ADOBE VERISON)\en_US\Configuration\Commands
 `
 - MacOS: `/Users/(YOUR USER)/Library/Application/Support/Adobe/Animate-(YOUR ADOBE VERISON)/en_US/Configuration/Commands`
